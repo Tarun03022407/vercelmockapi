@@ -1,3 +1,4 @@
+
 {
   "blogs": [
     {
@@ -10,5 +11,11 @@
       "likes" : 24,
       "comments" : [{"username" : "Jane", "content" : "Good One"}, {"username" : "Bob", "content" : "Loved It!"}]
     }
-  ]
+  ],
+  "users":[{
+    "Username":"tarun",
+"Avatar":"https://masai-website-images.s3.ap-south-1.amazonaws.com/image_47_a922f4522c.png", 
+"Email":"taggarwal533@gmail.com",
+"Password":"Tarun@0302"
+  }]
 }
