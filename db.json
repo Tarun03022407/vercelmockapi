@@ -22,9 +22,9 @@
       "Password": "Tarun@0302"
     }
   ],
-  "companies":[
+  "companies": [
     {
-      "id" : 1,
+      "id": 1,
       "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
       "company_name": "HDFC Bank",
       "company_type": "Bank",
@@ -34,7 +34,7 @@
       "price_action": 12
     },
     {
-      "id" : 2,
+      "id": 2,
       "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
       "company_name": "Reliance Industries",
       "company_type": "Oil",
@@ -42,6 +42,96 @@
       "total_shares": 20000,
       "cost_per_share": 2132,
       "price_action": 4
+    }
+  ],
+  "quiz": [
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who discovered Penicillin?",
+      "correct_answer": "Alexander Flemming",
+      "incorrect_answers": ["Marie Curie", "Alfred Nobel", "Louis Pasteur"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which video game earned music composer Mike Morasky the most awards for his work?",
+      "correct_answer": "Portal 2",
+      "incorrect_answers": [
+        "Left 4 Dead 2",
+        "Team Fortress 2",
+        "Counter-Strike: Global Offensive"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
+      "correct_answer": "Highlander",
+      "incorrect_answers": ["Flash Gordon", "Labyrinth", "Howard the Duck"]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?",
+      "correct_answer": "Calvin and Hobbes",
+      "incorrect_answers": ["Winnie the Pooh", "Albert and Pogo", "Peanuts"]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
+      "correct_answer": "A Study in Scarlet",
+      "incorrect_answers": [
+        "The Sign of the Four",
+        "A Case of Identity",
+        "The Doings of Raffles Haw"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "George Lucas directed the entire original Star Wars trilogy.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which one of these was not a member of the Fiendish Five in the game Sly Cooper and the Thievius Raccoonus?",
+      "correct_answer": "Dimitri Lousteau",
+      "incorrect_answers": ["Mz. Ruby", "Muggshot", "Clockwerk"]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who was Donald Trump&#039;s first wife?",
+      "correct_answer": "Ivana Zeln&iacute;\u010dkov&aacute;",
+      "incorrect_answers": ["Melania Knauss", "Marla Maples", "Nancy Davis"]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Harry Potter series of books, combined, are over 1,000,000 words in length.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The word &quot;science&quot; stems from the word &quot;scire&quot; meaning what?",
+      "correct_answer": "To know",
+      "incorrect_answers": ["To measure", "To live", "To count"]
     }
   ]
 }
